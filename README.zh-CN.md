@@ -34,6 +34,22 @@
 2. 在设置中配置 API Key（OpenAI、Anthropic、Google 等）
 3. 开始对话
 
+
+## 📧 联系我们
+
+如果您有任何问题、建议或反馈，欢迎联系我们：
+
+- **邮箱**：alibbitai@gmail.com
+
+## 💝 赞助我们
+
+您的支持帮助我们持续开发和改进 AliceGPT。感谢您的慷慨！
+
+**支付宝**
+
+![支付宝二维码](src/renderer/assets/alipay-qr.jpg)
+
+
 ## 📝 许可证
 
 MIT License
