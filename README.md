@@ -34,6 +34,22 @@ Download the installer for your platform:
 2. Configure API keys in Settings (OpenAI, Anthropic, Google, etc.)
 3. Start chatting!
 
+
+## 📧 Contact Us
+
+If you have any questions, suggestions, or feedback, please feel free to contact us:
+
+- **Email**: alibbitai@gmail.com
+
+## 💝 Sponsor Us
+
+Your support helps us continue developing and improving AliceGPT. Thank you for your generosity!
+
+**Alipay (支付宝)**
+
+![Alipay QR Code](src/renderer/assets/alipay-qr.jpg)
+
+
 ## 📝 License
 
 MIT License
@@ -41,4 +57,6 @@ MIT License
 ## ⭐ Star History
 
 If this project helps you, please give it a star ⭐
+
+
 
