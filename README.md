@@ -1,6 +1,6 @@
 [English](README.md) | [中文](README.zh-CN.md)
 
-# AliceGPT
+# Alibbit
 
 Cross-platform AI assistant supporting macOS, Windows, Linux, Android, and iOS.
 
@@ -43,12 +43,11 @@ If you have any questions, suggestions, or feedback, please feel free to contact
 
 ## 💝 Sponsor Us
 
-Your support helps us continue developing and improving AliceGPT. Thank you for your generosity!
+Your support helps us continue developing and improving Alibbit. Thank you for your generosity!
 
 **Alipay (支付宝)**
 
-![Alipay QR Code](assets/alipay-qr.jpg)
-
+<img src="assets/alipay-qr.jpg" alt="支付宝二维码" width="150" height="150">
 
 ## 📝 License
 
