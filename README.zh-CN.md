@@ -1,6 +1,6 @@
 [English](README.md) | [中文](README.zh-CN.md)
 
-# AliceGPT
+# Alibbit
 
 跨平台 AI 助手，支持 macOS、Windows、Linux、Android、iOS 全平台。
 
@@ -43,7 +43,7 @@
 
 ## 💝 赞助我们
 
-您的支持帮助我们持续开发和改进 AliceGPT。感谢您的慷慨！
+您的支持帮助我们持续开发和改进 Alibbit。感谢您的慷慨！
 
 **支付宝**
 
