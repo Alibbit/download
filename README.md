@@ -47,7 +47,7 @@ Your support helps us continue developing and improving AliceGPT. Thank you for 
 
 **Alipay (支付宝)**
 
-![Alipay QR Code](src/renderer/assets/alipay-qr.jpg)
+![Alipay QR Code](assets/alipay-qr.jpg)
 
 
 ## 📝 License
