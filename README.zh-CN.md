@@ -47,7 +47,7 @@
 
 **支付宝**
 
-![支付宝二维码](src/renderer/assets/alipay-qr.jpg)
+![支付宝二维码](assets/alipay-qr.jpg)
 
 
 ## 📝 许可证
